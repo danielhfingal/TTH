@@ -1,0 +1,12 @@
+TTH/
+├── README                  # Long linear read
+├── LICENSE                    # Wild public domain
+├── docs/
+│   ├── BLUEPRINT_OVERVIEW
+│   ├── COAXIAL_IMPLEMENTATION
+│   ├── NEXUS_BRAIN_DETAILS
+│   ├── TIMELINE_AND_PHASES
+│   ├── PILOT_PLAN.md
+│   ├── RESILIENCE_DETAILS
+│   └── ECONOMICS_SKETCH
+└── images/ (placeholders in files)

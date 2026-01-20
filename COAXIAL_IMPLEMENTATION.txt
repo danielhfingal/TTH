@@ -1,0 +1,18 @@
+# Coaxial Implementation – From Factory to Reality
+
+## Fabrication Process
+1. Inner pipe: HDPE/composite extrusion with embedded fiber-optic/TENG layers.
+2. Outer liner: Reinforced concrete/steel segments.
+3. Assembly: Inner inserted, annulus sealed (vacuum/gel optional).
+
+## Deployment Process
+- TBM continuous advance → robotic arms erect/align/seal segments.
+- Pigging ports every 5km for maintenance.
+
+## Electricity Cables Integration
+- Central conductor + braided shield → same prefab as fluid coaxial.
+- Added value: EMI shielding critical for AI racks; micro-capacitive harvest bonus.
+
+## Challenges & Solutions
+- Thermal expansion: Centralizers + flexible joints.
+- Alignment: Laser guidance + Nexus real-time correction.

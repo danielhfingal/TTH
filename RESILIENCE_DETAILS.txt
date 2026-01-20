@@ -1,0 +1,10 @@
+# Resilience Details – Deeper Hardening
+
+## Layers
+- EMP: Faraday + surge.
+- Cyber: Zero-trust + evolving protocol.
+- Physical: Gravity jumper, batteries, segmental bulkheads.
+- Predictive: Nexus maintenance foresight.
+- Post-Collapse: CSC lone restart manuals.
+
+10k+ sims → near-zero catastrophe.

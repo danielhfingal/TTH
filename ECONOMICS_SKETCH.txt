@@ -1,0 +1,14 @@
+
+# Economics Sketch – Deeper Discussion
+
+## CAPEX Breakdown (Optimistic)
+- Tunneling: $300–600M.
+- Surface/Coaxial/Compute: $4–15B.
+- Total: $5–20B.
+
+## Revenue Streams
+- AI compute (carbon-negative).
+- Thermal export (district/data centers).
+- Bioactives/algae products.
+
+Payback potential via high-margin compute.

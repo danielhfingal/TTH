@@ -1,0 +1,25 @@
+# TTH Blueprint Overview – Deeper System Breakdown
+
+## 1. Tunneling & Access (Process)
+- Launch shaft inland → TBM descent in hardest granite (safety first).
+- Horizontal shelf → spoil CyberHauler trains.
+- Ascent with screened completion wells (from below to avoid intrusion).
+
+## 2. Coaxial Infrastructure (Implementation)
+- Prefab segments: Inner HDPE/composite with embeds → outer structural liner.
+- Deployment: Robotic erection behind TBM.
+- Hybrid fluid-power bundles for uniform scaling.
+
+## 3. Nexus Compute Tubes (Process)
+- Modular racks branched into main flow.
+- Direct immersion + heat routing valves (Nexus-controlled).
+
+## 4. Harvesting Suite (Deeper)
+- AquaThermal: Non-contact plate exchangers.
+- Algae: Raceway ponds with halophilic strains (Spirulina/Dunaliella).
+- Blue: RED/PRO membrane stacks.
+- Micro: Distributed piezo/TENG in pipes.
+- AquaBank: Vapor condensation + reinjection wells.
+
+## 5. Nexus Brain (Deeper in separate file)
+See NEXUS_BRAIN_DETAILS.md

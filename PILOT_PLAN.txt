@@ -1,0 +1,16 @@
+# TTH Pilot Plan – Deeper Minimal Viable Proof
+
+## Scope & Process
+- 5–10 km granite test bore.
+- Surface hub: Coaxial loops, small compute rack, algae ponds, blue stack.
+- Test reinjection well.
+
+## Implementation Steps
+1. Site selection & permitting.
+2. TBM deployment + coaxial segment testing.
+3. Flow commissioning + Nexus calibration.
+
+## Success Criteria
+- Thermal recovery >90%.
+- Net micro-energy positive.
+- No intrusion/saline risk.
